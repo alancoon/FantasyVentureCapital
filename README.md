@@ -1,17 +1,2 @@
-# CS 201 Student Repository
-
-- **Danny Pan**
-- **USC ID**: 9908143260
-- **Email**: dannypan@usc.edu
-- **Timothy Lew**
-- **USC ID**: 2140819493
-- **Email**: lewt@usc.edu
-- **Jeffrey Chen**
-- **USC ID**: 9501024031
-- **Email**: chen305@usc.edu
-- **Aaron Shrock**
-- **USC ID**: 2511656267
-- **Email**: arschroc@usc.edu
-- **Alan Coon**
-- **USC ID**: 7561574891
-- **Email**: alancoon@usc.edu
+# Readme
+Desktop game that simulates being the executive of your own venture capital firm.  Compete against other players in real time to make the most money!  Acquire companies and watch them grow (or fail) on our simulated market.  Made by Danny Pan, Aaron Schrock, Tim Lew, Jeff Chen, Alan Coon.  (Note: multiplayer has been disabled so we don't have to pay server upkeep.)
